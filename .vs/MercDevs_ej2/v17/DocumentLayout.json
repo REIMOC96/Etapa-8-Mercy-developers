@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\mercy_developer\\",
+  "WorkspaceRootPath": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\x2026beast\\desktop\\evaluacion 1 u 3\\mercy_developer\\mercdevs_ej2\\views\\datosfichatecnicas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\x2026beast\\desktop\\evaluacion 1 u 3\\mercdevs_ej2\\controllers\\datosfichatecnicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\controllers\\datosfichatecnicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\x2026beast\\desktop\\evaluacion 1 u 3\\mercdevs_ej2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\x2026beast\\desktop\\evaluacion 1 u 3\\mercdevs_ej2\\views\\datosfichatecnicas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\datosfichatecnicas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\x2026beast\\desktop\\evaluacion 1 u 3\\mercy_developer\\mercdevs_ej2\\views\\datosfichatecnicas\\fichatopdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\datosfichatecnicas\\fichatopdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\x2026beast\\desktop\\evaluacion 1 u 3\\mercdevs_ej2\\views\\recepcionequipoes\\indexid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\recepcionequipoes\\indexid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\x2026beast\\desktop\\evaluacion 1 u 3\\mercy_developer\\mercdevs_ej2\\controllers\\datosfichatecnicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\controllers\\datosfichatecnicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\x2026beast\\desktop\\evaluacion 1 u 3\\mercdevs_ej2\\views\\datosfichatecnicas\\datosporrecep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\datosfichatecnicas\\datosporrecep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\x2026beast\\desktop\\evaluacion 1 u 3\\mercdevs_ej2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\x2026beast\\desktop\\evaluacion 1 u 3\\mercdevs_ej2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\x2026beast\\desktop\\evaluacion 1 u 3\\mercdevs_ej2\\models\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\models\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\x2026beast\\desktop\\evaluacion 1 u 3\\mercdevs_ej2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,51 +46,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\mercy_developer\\MercDevs_ej2\\Views\\Datosfichatecnicas\\Index.cshtml",
-              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Datosfichatecnicas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\mercy_developer\\MercDevs_ej2\\Views\\Datosfichatecnicas\\Index.cshtml",
-              "RelativeToolTip": "MercDevs_ej2\\Views\\Datosfichatecnicas\\Index.cshtml",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAAwIQBAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-28T05:51:59.435Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DatosfichatecnicasController.cs",
-              "DocumentMoniker": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\mercy_developer\\MercDevs_ej2\\Controllers\\DatosfichatecnicasController.cs",
-              "RelativeDocumentMoniker": "MercDevs_ej2\\Controllers\\DatosfichatecnicasController.cs",
-              "ToolTip": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\mercy_developer\\MercDevs_ej2\\Controllers\\DatosfichatecnicasController.cs",
-              "RelativeToolTip": "MercDevs_ej2\\Controllers\\DatosfichatecnicasController.cs",
-              "ViewState": "AQIAAOAAAAAAAAAAAAAUwPsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T06:07:03.057Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FichaToPdf.cshtml",
-              "DocumentMoniker": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\mercy_developer\\MercDevs_ej2\\Views\\Datosfichatecnicas\\FichaToPdf.cshtml",
-              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Datosfichatecnicas\\FichaToPdf.cshtml",
-              "ToolTip": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\mercy_developer\\MercDevs_ej2\\Views\\Datosfichatecnicas\\FichaToPdf.cshtml",
-              "RelativeToolTip": "MercDevs_ej2\\Views\\Datosfichatecnicas\\FichaToPdf.cshtml",
-              "ViewState": "AQIAAPMAAAAAAAAAAAAAAJUBAAALAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEwAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T07:21:08.663Z",
+              "WhenOpened": "2024-07-29T05:08:22.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatosPorRecep.cshtml",
+              "DocumentMoniker": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Views\\Datosfichatecnicas\\DatosPorRecep.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Datosfichatecnicas\\DatosPorRecep.cshtml",
+              "ToolTip": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Views\\Datosfichatecnicas\\DatosPorRecep.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Datosfichatecnicas\\DatosPorRecep.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwFwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T04:46:54.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndexId.cshtml",
+              "DocumentMoniker": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Views\\Recepcionequipoes\\IndexId.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Recepcionequipoes\\IndexId.cshtml",
+              "ToolTip": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Views\\Recepcionequipoes\\IndexId.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Recepcionequipoes\\IndexId.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T04:40:04.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatosfichatecnicasController.cs",
+              "DocumentMoniker": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Controllers\\DatosfichatecnicasController.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Controllers\\DatosfichatecnicasController.cs",
+              "ToolTip": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Controllers\\DatosfichatecnicasController.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Controllers\\DatosfichatecnicasController.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAmwPEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T02:20:59.126Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Models\\Usuario.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T01:53:25.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Program.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Program.cs",
+              "ToolTip": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Program.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T01:21:59.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SmtpSettings.cs",
+              "DocumentMoniker": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Models\\SmtpSettings.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Models\\SmtpSettings.cs",
+              "ToolTip": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Models\\SmtpSettings.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Models\\SmtpSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T01:19:45.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\appsettings.json",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\appsettings.json",
+              "ToolTip": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\appsettings.json",
+              "RelativeToolTip": "MercDevs_ej2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T00:18:41.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Views\\Datosfichatecnicas\\Index.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Datosfichatecnicas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\Views\\Datosfichatecnicas\\Index.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Datosfichatecnicas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T05:51:59.435Z"
             }
           ]
         },
@@ -97,7 +186,7 @@
           ]
         },
         {
-          "DockedWidth": 639,
+          "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -107,7 +196,7 @@
           ]
         },
         {
-          "DockedWidth": 179,
+          "DockedWidth": 639,
           "SelectedChildIndex": -1,
           "Children": [
             {

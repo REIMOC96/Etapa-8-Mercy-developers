@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WEWBN5RnyPQ=",
+  "dgSpecHash": "ZzdEfDrwmck=",
   "success": true,
-  "projectFilePath": "C:\\Users\\X2026Beast\\Desktop\\evaluacion 1 u 3\\MercDevs_ej2\\MercDevs_ej2.csproj",
+  "projectFilePath": "C:\\Users\\X2026Beast\\Desktop\\evaluacion-1-u-3\\MercDevs_ej2\\MercDevs_ej2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\X2026Beast\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\X2026Beast\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

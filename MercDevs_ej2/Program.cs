@@ -1,8 +1,10 @@
 using MercDevs_ej2.Models;
+using MercDevs_ej2.Services;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Options;
 using Rotativa.AspNetCore;
-using Rotativa.AspNetCore.Options;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +16,12 @@ builder.Services.AddDbContext<MercyDeveloperContext>(options =>
     options.UseMySql(builder.Configuration.GetConnectionString("connection"),
     Microsoft.EntityFrameworkCore.ServerVersion.Parse("10.4.25-mariadb")));
 
+// Configure SMTP settings
+builder.Services.Configure<SmtpSettings>(builder.Configuration.GetSection("Smtp"));
+
+// Register the email service
+builder.Services.AddTransient<EmailService>();
+
 // Configure authentication
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
@@ -21,9 +29,6 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
         options.LoginPath = "/Login/Ingresar";
         options.ExpireTimeSpan = TimeSpan.FromDays(1);
     });
-
-// Configure Rotativa me da error por algun motivo que desconozco
-//builder.Services.AddRotativa();
 
 var app = builder.Build();
 
@@ -43,6 +48,5 @@ app.UseRotativa();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Login}/{action=Ingresar}/{id?}");
-var rotativaPath = Path.Combine(app.Environment.WebRootPath, "Rotativa");
-RotativaConfiguration.Setup(app.Environment.WebRootPath, rotativaPath);
+
 app.Run();
